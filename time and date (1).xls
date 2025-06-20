@@ -1,0 +1,140 @@
+countrys,time,temperature
+"Algeria, Algiers",Wed 09:12,20 °C
+"Argentina, Buenos Aires",Wed 05:12,17 °C
+"Australia, Australian Capital Territory, Canberra",Wed 18:12,11 °C
+"Australia, New South Wales, Sydney",Wed 18:12,15 °C
+"Australia, Northern Territory, Darwin",Wed 17:42,30 °C
+"Australia, Queensland, Brisbane",Wed 18:12,22 °C
+"Australia, South Australia, Adelaide",Wed 17:42,17 °C
+"Australia, Victoria, Melbourne",Wed 18:12,15 °C
+"Australia, Western Australia, Perth",Wed 16:12,29 °C
+"Austria, Vienna, Vienna *",Wed 10:12,17 °C
+"Bahamas, Nassau *",Wed 04:12,23 °C
+"Bangladesh, Dhaka",Wed 14:12,30 °C
+"Belarus, Minsk",Wed 11:12,12 °C
+"Belgium, Brussels, Brussels *",Wed 10:12,15 °C
+"Bolivia, La Paz",Wed 04:12,6 °C
+"Brazil, Distrito Federal, Brasilia",Wed 05:12,19 °C
+"Brazil, Rio de Janeiro, Rio de Janeiro",Wed 05:12,21 °C
+"Brazil, São Paulo, São Paulo",Wed 05:12,15 °C
+"Bulgaria, Sofia *",Wed 11:12,9 °C
+"Canada, Alberta, Calgary *",Wed 02:12,7 °C
+"Canada, Alberta, Edmonton *",Wed 02:12,7 °C
+"Canada, British Columbia, Vancouver *",Wed 01:12,10 °C
+"Canada, Manitoba, Winnipeg *",Wed 03:12,6 °C
+"Canada, Newfoundland and Labrador, St. John's *",Wed 05:42,1 °C
+"Canada, Nova Scotia, Halifax *",Wed 05:12,4 °C
+"Canada, Ontario, Ottawa *",Wed 04:12,1 °C
+"Canada, Ontario, Toronto *",Wed 04:12,4 °C
+"Canada, Quebec, Montréal *",Wed 04:12,7 °C
+"Chile, Santiago",Wed 04:12,9 °C
+"China, Beijing Municipality, Beijing",Wed 16:12,26 °C
+"China, Shanghai Municipality, Shanghai",Wed 16:12,27 °C
+"Colombia, Bogota",Wed 03:12,12 °C
+"Congo Dem. Rep., Kinshasa",Wed 09:12,24 °C
+"Croatia, Zagreb *",Wed 10:12,16 °C
+"Cuba, Havana *",Wed 04:12,20 °C
+"Czechia, Prague *",Wed 10:12,16 °C
+"Denmark, Copenhagen *",Wed 10:12,14 °C
+"Dominican Republic, Santo Domingo",Wed 04:12,25 °C
+"Egypt, Cairo *",Wed 11:12,26 °C
+"El Salvador, San Salvador",Wed 02:12,26 °C
+"Estonia, Tallinn *",Wed 11:12,5 °C
+"Ethiopia, Addis Ababa",Wed 11:12,20 °C
+"Fiji, Suva",Wed 20:12,28 °C
+"Finland, Helsinki *",Wed 11:12,5 °C
+"France, Paris, Paris *",Wed 10:12,19 °C
+"Germany, Berlin, Berlin *",Wed 10:12,17 °C
+"Germany, Hesse, Frankfurt *",Wed 10:12,19 °C
+"Ghana, Accra",Wed 08:12,24 °C
+"Greece, Athens *",Wed 11:12,15 °C
+"Guatemala, Guatemala City",Wed 02:12,17 °C
+"Honduras, Tegucigalpa",Wed 02:12,21 °C
+"Hong Kong, Hong Kong",Wed 16:12,28 °C
+"Hungary, Budapest *",Wed 10:12,19 °C
+"Iceland, Reykjavik",Wed 08:12,7 °C
+"India, Delhi, New Delhi",Wed 13:42,35 °C
+"India, Karnataka, Bengaluru",Wed 13:42,32 °C
+"India, Maharashtra, Mumbai",Wed 13:42,33 °C
+"India, West Bengal, Kolkata",Wed 13:42,25 °C
+"Indonesia, Jakarta Special Capital Region, Jakarta",Wed 15:12,32 °C
+"Iran, Tehran",Wed 11:42,17 °C
+"Iraq, Baghdad",Wed 11:12,30 °C
+"Ireland, Dublin *",Wed 09:12,14 °C
+"Israel, Jerusalem *",Wed 11:12,25 °C
+"Italy, Rome *",Wed 10:12,15 °C
+"Jamaica, Kingston",Wed 03:12,26 °C
+"Japan, Tokyo",Wed 17:12,21 °C
+"Jordan, Amman",Wed 11:12,26 °C
+"Kazakhstan, Almaty",Wed 13:12,17 °C
+"Kenya, Nairobi",Wed 11:12,22 °C
+"Kiribati, Christmas Island, Kiritimati",Wed 22:12,27 °C
+"Kuwait, Kuwait City",Wed 11:12,35 °C
+"Lebanon, Beirut *",Wed 11:12,23 °C
+"Madagascar, Antananarivo",Wed 11:12,23 °C
+"Malaysia, Kuala Lumpur, Kuala Lumpur",Wed 16:12,27 °C
+"Mexico, Ciudad de México, Mexico City",Wed 02:12,17 °C
+"Morocco, Casablanca *",Wed 09:12,17 °C
+"Myanmar, Yangon",Wed 14:42,25 °C
+"Nepal, Kathmandu",Wed 13:57,25 °C
+"Netherlands, Amsterdam *",Wed 10:12,17 °C
+"New Zealand, Auckland",Wed 20:12,19 °C
+"Nigeria, Lagos, Lagos",Wed 09:12,25 °C
+"Norway, Oslo *",Wed 10:12,10 °C
+"Pakistan, Islamabad",Wed 13:12,33 °C
+"Pakistan, Sindh, Karachi",Wed 13:12,38 °C
+"Pakistan, Lahore",Wed 13:12,37 °C
+"Paraguay, Asuncion",Wed 05:12,13 °C
+"Peru, Lima, Lima",Wed 03:12,18 °C
+"Philippines, Manila",Wed 16:12,34 °C
+"Poland, Warsaw *",Wed 10:12,15 °C
+"Portugal, Lisbon, Lisbon *",Wed 09:12,13 °C
+"Puerto Rico, San Juan",Wed 04:12,23 °C
+"Qatar, Doha",Wed 11:12,36 °C
+"Romania, Bucharest *",Wed 11:12,17 °C
+"Russia, Anadyr",Wed 20:12,-6 °C
+"Russia, Moscow",Wed 11:12,8 °C
+"Saudi Arabia, Riyadh",Wed 11:12,34 °C
+"Serbia, Belgrade *",Wed 10:12,15 °C
+"Singapore, Singapore",Wed 16:12,35 °C
+"South Africa, Cape Town",Wed 10:12,16 °C
+"South Africa, Johannesburg",Wed 10:12,17 °C
+"South Korea, Seoul",Wed 17:12,25 °C
+"Spain, Barcelona, Barcelona *",Wed 10:12,18 °C
+"Spain, Madrid, Madrid *",Wed 10:12,13 °C
+"Sweden, Stockholm *",Wed 10:12,12 °C
+"Switzerland, Zurich, Zürich *",Wed 10:12,14 °C
+"Taiwan, Taipei",Wed 16:12,30 °C
+"Thailand, Bangkok",Wed 15:12,36 °C
+"Turkey, Ankara",Wed 11:12,13 °C
+"Turkey, Istanbul",Wed 11:12,13 °C
+"Ukraine, Kyiv *",Wed 11:12,15 °C
+"United Arab Emirates, Dubai, Dubai",Wed 12:12,42 °C
+"United Kingdom, England, London *",Wed 09:12,12 °C
+"Uruguay, Montevideo",Wed 05:12,8 °C
+"USA, Alaska, Anchorage *",Wed 00:12,5 °C
+"USA, Arizona, Phoenix",Wed 01:12,22 °C
+"USA, California, Los Angeles *",Wed 01:12,14 °C
+"USA, California, San Francisco *",Wed 01:12,12 °C
+"USA, Colorado, Denver *",Wed 02:12,8 °C
+"USA, District of Columbia, Washington DC *",Wed 04:12,23 °C
+"USA, Florida, Miami *",Wed 04:12,24 °C
+"USA, Georgia, Atlanta *",Wed 04:12,17 °C
+"USA, Hawaii, Honolulu",Tue 22:12,25 °C
+"USA, Illinois, Chicago *",Wed 03:12,12 °C
+"USA, Indiana, Indianapolis *",Wed 04:12,12 °C
+"USA, Louisiana, New Orleans *",Wed 03:12,24 °C
+"USA, Massachusetts, Boston *",Wed 04:12,18 °C
+"USA, Michigan, Detroit *",Wed 04:12,7 °C
+"USA, Minnesota, Minneapolis *",Wed 03:12,8 °C
+"USA, Nevada, Las Vegas *",Wed 01:12,23 °C
+"USA, New York, New York *",Wed 04:12,21 °C
+"USA, Pennsylvania, Philadelphia *",Wed 04:12,21 °C
+"USA, Texas, Dallas *",Wed 03:12,22 °C
+"USA, Texas, Houston *",Wed 03:12,24 °C
+"USA, Utah, Salt Lake City *",Wed 02:12,15 °C
+"USA, Washington, Seattle *",Wed 01:12,11 °C
+"Uzbekistan, Tashkent",Wed 13:12,23 °C
+"Venezuela, Caracas",Wed 04:12,25 °C
+"Vietnam, Hanoi",Wed 15:12,31 °C
+"Zimbabwe, Harare",Wed 10:12,19 °C
